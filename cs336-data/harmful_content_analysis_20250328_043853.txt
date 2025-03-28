@@ -1,0 +1,550 @@
+
+================================================================================
+======================= HARMFUL CONTENT ANALYSIS RESULTS =======================
+================================================================================
+
+SAMPLE 1:
+Text:   • více
+  • tiscali.cz
+  • zprávy
+  • sport
+  • games.cz
+  • osobnosti.cz
+  • nedd.cz
+  • booom.cz
+  • hadejfilm.cz
+  • dokina.cz
+  • ženy
+  • úschovna.cz
+  • našepeníze.cz
+  • receptynadoma.cz
+  • srovnám.cz
+  • bandzone.cz
+  • doktorka.cz
+  • freegames.cz
+  • hadejhru.cz
+  • hadejosobnosti.cz
+  • cestování
+  • firmy
+  • doklubu.cz
+  • € 26.67
+  • Občasný déšť 13 °C
+  • 0
+  • 0
+  • 0
+  • vice
+  • přihlásit
+  • registrovat
+  • zaregistrovat si účet mojeID
+  • přihlásit se pomocí facebooku
+  • p...
+NSFW: non-nsfw (confidence: 0.5000)
+Toxic: non-toxic (confidence: 0.5000)
+--------------------------------------------------------------------------------
+SAMPLE 2:
+Text: abebooks.com Passion for books.
+Sign OnMy AccountBasket Help
+My Account • My Purchases Advanced Search Browse Collections Rare Books Art & Collectibles Textbooks
+Booksellers Start Selling Help Close
+Advanced Search
+Hamid Sultan bin Abu Backer Janab's key to the law of evidence in Malaysia and Singapore
+
+ISBN 13: 9789839880014
+
+Janab's key to the law of evidence in Malaysia and Singapore
+
+Hamid Sultan bin Abu Backer
+
+1 avg rating •
+( 1 ratings by Goodreads )
+ 
+9789839880014: Janab's key to the la...
+NSFW: non-nsfw (confidence: 0.5000)
+Toxic: non-toxic (confidence: 0.5000)
+--------------------------------------------------------------------------------
+SAMPLE 3:
+Text:   • 首頁
+  • 超級商城
+  • 購物中心
+  • 中古車
+  • 帳務中心
+mobile_sidebar
+Yahoo!奇摩拍賣
+登入
+賣東西
+購物車
+求助
+原創男裝與男鞋
+搜尋商品
+  • 價格:低到高
+  • 價格:高到低
+  • 全站排名
+  • 人氣排行
+  • 相關度
+分類清單
+原創設計良品原創男裝與男鞋
+確定
+20 / 3787 筆
+全部商品
+  • 安心易付
+    美式 街頭 HIGH END STREET 加毛 開岔 OVERSIZE 寬鬆 插肩袖 落肩 套頭 外套 帽T FOG$1,250
+    直購
+    #熱賣款#秋冬新款#賈斯丁
+  • 安心易付
+    歐美 街頭 高端品質 HIGH END STREET OVERSIZE 寬鬆 忍者服 高領 休閒 套頭 大學T 外套$1,100
+    直購
+  • 安心易付
+    歐美 街頭 高街 2016 秋冬新款 HIGH END STREET 高端品質 毛毛連帽外套 帽T JRM$1,240
+    直購
+    #supreme#champion#fog
+  • 安心易付
+    歐美高街 秋冬新款 ...
+NSFW: non-nsfw (confidence: 0.5000)
+Toxic: non-toxic (confidence: 0.5000)
+--------------------------------------------------------------------------------
+SAMPLE 4:
+Text:   • Home
+  • Furniture By Category
+    • Bedheads and bedframes
+    • Bedsides and side tables
+    • Bookcases and storage
+    • Buffets
+    • Chairs
+    • Chest of drawers
+    • Coffee tables
+    • Consoles and mirrors
+    • Dining tables
+    • Extension dining tables
+    • Entertainment units
+    • Office and study
+    • Wine Storage
+  • Furniture By Collection
+    • Mango Hardwood
+    • French Provincial
+    • Antique Chinese
+    • Modern
+    • White Cedar
+  • Inspiration
+  • Gallery
+  • Cont...
+NSFW: non-nsfw (confidence: 0.5000)
+Toxic: non-toxic (confidence: 0.5000)
+--------------------------------------------------------------------------------
+SAMPLE 5:
+Text: Sacramento State Athletics
+
+  • Composite
+  • Search
+  • Menu
+
+Site Navigation
+
+  • Sports
+    • Men's Sports
+      • Baseball
+        • Roster
+        • Schedule
+        • News
+        • Twitter
+        • Facebook
+      • Basketball
+        • Roster
+        • Schedule
+        • News
+        • Twitter
+        • Facebook
+      • Cross Country
+        • Roster
+        • Schedule
+        • News
+        • Twitter
+        • Facebook
+      • Football
+        • Roster
+        • Schedule
+        • News
+...
+NSFW: non-nsfw (confidence: 0.5000)
+Toxic: non-toxic (confidence: 0.5000)
+--------------------------------------------------------------------------------
+SAMPLE 6:
+Text: 商品名：アストログライド【ウォーミング】（2.5オンス）（73.9ml） 　[商品コード：KIY-120-01623]
+価格 1390円　 [在庫あります。即日出荷可能です。]
+■ 容量
+容　量: 2.5 oz（オンス）（73.9ml）
+タイプ：ウォーミング（温感）
+香　り：無香
+
+※パッケージデザインが、画像の通り、変更となりました。製品仕様に変更点はございません。（2018.02）
+■ 特徴
+○つけた瞬間から温かくヒヤッとすることがない事です、《圧倒的な温感性能》を体感して下さい。
+　
+●元NASAの潤滑技術者・ダニエルレイ博士が開発、現在、名実ともに世界最高性能の水性ローションです。
+●15分以上指で摩擦し続けて潤滑性が変わらない程の性能なので、ごく少量の使用でOK。
+●油性製品以上の潤滑性と水性製品の上質な使用感と滑りを兼ね備えています。
+●使用後の違和感がなく、水で簡単に洗い落とせます。
+●人間の体液と同じPHバランスの水性製品ですので、体に優しく女性器・アナル共に安心して使用できます。
+■ お客様へ
+アメリカの医療現場でも10年以上使われている信頼度バツグンの製品で、本来の...
+NSFW: non-nsfw (confidence: 0.5000)
+Toxic: non-toxic (confidence: 0.5000)
+--------------------------------------------------------------------------------
+SAMPLE 7:
+Text:  Login  Kontakt
+Newsletter
+  • Hund
+    • Gesundheit und Ernährung
+      Ernährung
+      Geburt und Wachstum
+      Krankheiten und Pflege
+      Anatomie und Physiologie
+    • Hunderassen
+      Rasseübersicht
+      Sehr kleine Hunde
+      Kleine Hunde
+      Mittelgroße Hunde
+      Große Hunde
+      Riesenrassen
+    • Ein neuer Hund
+      Tipps zum neuen Hund
+      Hundewelpen
+      Kastration
+    • Leben mit Hund
+      Erziehung
+      Ein Hund als Geschenk
+      Hundesport
+      Kinder und Hund
+ ...
+NSFW: non-nsfw (confidence: 0.5000)
+Toxic: non-toxic (confidence: 0.5000)
+--------------------------------------------------------------------------------
+SAMPLE 8:
+Text: RSS Feed Hi10 Games - العاب هاي تن
+  • Girls
+  • Family
+  • Kids
+  • Boys
+Games | Jeux | Spiele | Giochi | Juegos | Al3ab
+  • Games
+  • TopTen
+  • Fresh
+  • Portal
+  • Catalog
+  • Surprise
+  • Al3ab
+Hi10 Games Flash Games Simulation Games Airport Mania 2: Wild Trips
+
+Airport Mania 2: Wild Trips
+
+Airport Mania 2: Wild Trips takes players on an amazing journey both around the world and beyond it with 9 unique locations including the North Pole, Monsterville, the Moon, and Tiki Taka island where yo...
+NSFW: non-nsfw (confidence: 0.5000)
+Toxic: non-toxic (confidence: 0.5000)
+--------------------------------------------------------------------------------
+SAMPLE 9:
+Text:   • Оплата
+  • Доставка/Delivery
+  • Гарантия и возврат
+  • Режим работы
+Лого сайта topok.ua - одежда от украинских дизайнеров
++380674423020 Украина
++380996060643 Украина
++13232023722 Viber
+Цены в UAH / RUB BYR
+  • Вход
+  • Мои данные
+Ваша корзина: 0 товара, 0грн Оформить заказ
+  • Новинки
+  • Дизайнеры
+  • Одежда
+  • Купальники
+  • Обувь
+  • Сумки
+  • Аксессуары
+  • XXXL
+  • Подарки
+  • Ателье
+  • Скидки
+  • Журнал
+  • Обучение
+Одежда склифос, коллекция 2016 весна лето
+  • Аксессуары
+  • Коллек...
+NSFW: non-nsfw (confidence: 0.5000)
+Toxic: non-toxic (confidence: 0.5000)
+--------------------------------------------------------------------------------
+SAMPLE 10:
+Text: » «
+Главы
+Страницы
+
+Фон
+0/0
+Рейтинг@Mail.ru
+
+Проблемы?
+
+Пожалуйста, подробно опишите возникшую проблема. Минимальный размер - 50 символов.
+NSFW: non-nsfw (confidence: 0.5000)
+Toxic: non-toxic (confidence: 0.5000)
+--------------------------------------------------------------------------------
+SAMPLE 11:
+Text: Travel Weekly- The Travel Industry's Trusted Voice
+  • News & Features
+  • Voices
+  • Resources
+  • Find A...
+  • Facebook
+  • Twitter
+  • Pinterest
+  • LinkedIn
+More Luxury Cruise Search xCruises By RegionAfrica/ Middle EastAlaskaAsiaAustralia/ South PacificCaribbeanEuropeMediterraneanMexicoUnited States/ CanadaTrans-Oceanic & WorldAll cruise destinations
+
+ALL CRUISESMost Popular Cruise LinesAmaWaterwaysCarnival Cruise LineCosta Cruise LinesHolland America LineMSC CruisesNorwegian Cruise LinePr...
+NSFW: non-nsfw (confidence: 0.5000)
+Toxic: non-toxic (confidence: 0.5000)
+--------------------------------------------------------------------------------
+SAMPLE 12:
+Text: Tweakers
+  • Frontpage
+  • Nieuws
+  • Reviews
+  • Pricewatch
+  • Vraag & Aanbod
+  • Forum
+  • Meer
+    • Video
+    • Downloads
+    • IT Banen
+    • IT Pro
+    • Profielen
+    • Tweakblogs
+    • Acties & Events
+    • Word Abonnee
+    • Over Tweakers
+0
+  • Account
+    • Inloggen
+    • Registreren
+  • Zoeken
+  • settings
+  • vergelijk items0
+  • Inloggen
+  • Registreren
+Wij stellen technologie op de proef
+34,8K 78,5K
+
+Cookies op Tweakers
+
+Tweakers maakt gebruik van cookies, onder andere om de websi...
+NSFW: non-nsfw (confidence: 0.5000)
+Toxic: non-toxic (confidence: 0.5000)
+--------------------------------------------------------------------------------
+SAMPLE 13:
+Text: Free
+English
+Dictionary
+
+
+
+
+A FREE English Dictionary Database from Spellcheck.co.uk.
+
+You can check the meaning of one word, or a whole page.
+
+Enter your query in the search box, or choose a letter from the menu below.
+
+Try our SpellChecker here, or our English Thesaurus here.
+
+ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+Search:
+ Exact Word  Within Words  Within Descriptions
+Results:
+Watch (v. i.) To serve the purpose of a watchman by floating properly in its place; -- said of a buoy.
+NSFW: non-nsfw (confidence: 0.5000)
+Toxic: non-toxic (confidence: 0.5000)
+--------------------------------------------------------------------------------
+SAMPLE 14:
+Text: User talk:Biberbaer
+
+From Wikimedia Commons, the free media repository
+Jump to: navigation, search
+Puente de las americas
+Comments, suggestions, and questions are welcome. Please open new sections here. This talk page is automatically archived by MiszaBot. Any sections older than 20 days with at least one signature end up here.
+
+Kommentare, Anregungen und Fragen sind herzlich willkommen. Bitte neue Abschnitte unten anfügen. Diese Diskussionsseite wird von MiszaBot automatisch archiviert. Alle Ab...
+NSFW: non-nsfw (confidence: 0.5000)
+Toxic: non-toxic (confidence: 0.5000)
+--------------------------------------------------------------------------------
+SAMPLE 15:
+Text: tru-knitting
+
+Menu
+
+  • О нас
+  • Школа
+  • Глоссарий
+  • Клубок Обозрения
+  • Библиотека
+  • Дизайнеры
+  • События
+  • Юмор
+  • Наши дизайны
+  • Наши друзья
+
+пятница, 23 января 2015 г.
+
+Базовая носочная пятка. МК с фотографиями
+
+Сегодня мы будем бороться с фобией носочной пятки на примере самого простого варианта ее вязания. Если вы уже знаете 151 способ вязать пятку с художественным переподвывертом, дождитесь, пока мы рассмотрим 152-й)) А этот МК для начинающих.
+
+
+
+
+Поскольку пятку сложно расс...
+NSFW: non-nsfw (confidence: 0.5000)
+Toxic: non-toxic (confidence: 0.5000)
+--------------------------------------------------------------------------------
+SAMPLE 16:
+Text: ProWrestling Fans WWE TNA Forum
+
+Go Back   ProWrestling Fans WWE TNA Forum > Wrestling > General Wrestling
+What are your thoughts about this wrestling video game called WWF No Mercy (N64)? What are your thoughts about this wrestling video game called WWF No Mercy (N64)?
+ProWrestlingFans Register FAQ Members List Calendar Search Today's Posts Mark Forums Read
+
+General Wrestling Any non-WWE/TNA wrestling discussion goes in here. This includes wrestling history.
+
+What are your thoughts about this w...
+NSFW: non-nsfw (confidence: 0.5000)
+Toxic: non-toxic (confidence: 0.5000)
+--------------------------------------------------------------------------------
+SAMPLE 17:
+Text:  Skip to main content
+
+Search This Blog
+
+New Horizon Reviews
+
+A New Horizon of Reviews
+
+Pages
+
+  • Home
+  • About Me
+  • Author Interviews
+  • Baker
+  • Bethany House
+  • B&H Publishing
+  • Bible Gateway
+  • Bible Gateway Deals
+  • Blog Roll
+  • Blogging for Books
+  • Book Challenges
+  • BookLook
+  • Cathy Bryant
+  • Children Music
+  • Chosen Books
+  • Christian Fiction
+  • Christmas
+  • Classics
+  • Contemporary Christian Music
+  • Explorers
+  • First Look
+  • General
+  • HF Virtual Book Tours
+...
+NSFW: non-nsfw (confidence: 0.5000)
+Toxic: non-toxic (confidence: 0.5000)
+--------------------------------------------------------------------------------
+SAMPLE 18:
+Text: Der Tagesspiegel
+  • Startseite
+  • Politik
+    • Agenda
+    • NSA-Skandal
+    • Rechtsextremismus
+    • Geschichte
+    • Umwelt
+    • Politische Literatur
+  • Berlin
+  • Wirtschaft
+  • Sport
+  • Kultur
+  • Welt
+  • Meinung
+  • Medien
+  • Wissen
+  • Queer
+  • Verbraucher
+    • Abo
+    • E-Paper
+    • Shop
+  • Folgen Sie uns auf Facebook
+  • Folgen Sie uns auf Twitter
+  • Folgen Sie uns auf Instagram
+  • Folgen Sie uns auf Youtube
+  • Login
+  • Registrieren
+  • Der Tagesspiegel
+  • Politik
+  • Ni...
+NSFW: non-nsfw (confidence: 0.5000)
+Toxic: non-toxic (confidence: 0.5000)
+--------------------------------------------------------------------------------
+SAMPLE 19:
+Text:  Reprinted with permission from The Baxter Bulletin. www.baxterbulletin.com
+
+CHANDRA HUSTON
+Bulletin Staff Writer
+
+Norfork students reach 100,000 measurements milestone
+
+August 25, 2005
+NORFORK — Past the classrooms at Norfork's Arrie Goforth Elementary, near the swings and slides of the playground, sits a white box with a pole sticking out of it. From that unique-looking contraption comes invaluable information that is used by scientists around the world.
+
+The white box is a weather station. Ea...
+NSFW: non-nsfw (confidence: 0.5000)
+Toxic: non-toxic (confidence: 0.5000)
+--------------------------------------------------------------------------------
+SAMPLE 20:
+Text: RU
+RU EN FR DE
+  • Главная
+  • Новости
+  • Привлечь к трибуналу
+  • Виновность
+  • Расследование
+  • База нарушений
+  • Помочь Проекту
+Преступления Хунты по ДНР: За Весь Период Убито 4066 жителей. Пропали без Вести 3816 человек. Разрушено 10581 объектов инфраструктуры на сумму 22 млрд. гривен. Беженцев в Россию: 1.4 млн человек. Вынужденные переселенцы в ДНР: 90300 чел. Безработица: 84160 чел.
+Фильтр по регионам
+Участники операции
+Яндекс.Метрика
+  • Главная
+  • Каратель
+  • Ткаченко
+Ткаченко Евг...
+NSFW: non-nsfw (confidence: 0.5000)
+Toxic: non-toxic (confidence: 0.5000)
+--------------------------------------------------------------------------------
+
+SUMMARY STATISTICS:
+Total samples analyzed: 20
+NSFW content: 0 (0.0%)
+Toxic content: 0 (0.0%)
+
+NSFW THRESHOLD ANALYSIS:
+  >= 0.5: 0 samples (0.0%)
+  >= 0.6: 0 samples (0.0%)
+  >= 0.7: 0 samples (0.0%)
+  >= 0.8: 0 samples (0.0%)
+  >= 0.9: 0 samples (0.0%)
+
+TOXIC THRESHOLD ANALYSIS:
+  >= 0.5: 0 samples (0.0%)
+  >= 0.6: 0 samples (0.0%)
+  >= 0.7: 0 samples (0.0%)
+  >= 0.8: 0 samples (0.0%)
+  >= 0.9: 0 samples (0.0%)
+
+NOTE: Please manually verify these classifications and note any errors.
+Based on your observations, determine suitable confidence thresholds.

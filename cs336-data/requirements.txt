@@ -1,3 +1,4 @@
 xopen
 resiliparse
 fasttext
+warcio
